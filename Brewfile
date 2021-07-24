@@ -19,6 +19,7 @@ brew 'mackup'
 brew 'mas' # Mac App Store manager
 brew 'prettyping'
 brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
+brew 'svn' # to could install fonts
 brew 'zlib' # Needed for Memcached
 
 # Spatie Medialibrary
